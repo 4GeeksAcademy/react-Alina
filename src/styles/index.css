@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.content{
+    padding-bottom: 2.5rem;
+}
+
+.d-md-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
